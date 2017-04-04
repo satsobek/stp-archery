@@ -1,0 +1,15 @@
+
+aside {
+  float: right;
+}
+
+article {
+  float: left;
+}
+.test {
+  float: right;
+}
+
+.test2 {
+  float: left;
+}
