@@ -1,12 +1,45 @@
 
+/*Header*/
+.site-header {
+  text-align: center;
+  background-color: black;
+  color: #50D0D0;
+}
+
+/*Navigation*/
+.site-navigation {
+  background-color: #e0ebeb;
+  color: black;
+}
+
+/*Page Body*/
+body {
+  background-color: #50D0D0;
+}
+
+.site-body {
+  background-color: #e0ebeb;
+}
+
+/*General footer styling*/
+.site-footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.footer-link {
+  color: #50D0D0;
+}
+
 /*Styling for Font Awesome- Social Media*/
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 60px;
+  padding: 5px;
+  font-size: 20px;
+  width: 30px;
   text-align: center;
   text-decoration: none;
-  border-radius: 60%;
+  border-radius: 50%;
 }
 
 .fa-facebook {
