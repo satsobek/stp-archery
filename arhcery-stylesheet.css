@@ -1,15 +1,20 @@
 
-aside {
-  float: right;
+/*Styling for Font Awesome- Social Media*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 60%;
 }
 
-article {
-  float: left;
-}
-.test {
-  float: right;
+.fa-facebook {
+  background: #3B5998;
+  color: white;
 }
 
-.test2 {
-  float: left;
+.fa-twitter {
+  background: #3B5998;
+  color: White;
 }
