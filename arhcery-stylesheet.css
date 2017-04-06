@@ -23,6 +23,39 @@ body {
   background-color: #e0ebeb;
 }
 
+/*images*/
+.center-block1 {
+  margin-top: 20%;
+  margin-bottom: auto;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+.center-block2 {
+  margin-top: 5%;
+  margin-bottom: auto;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.center-block3 {
+  margin-top: 10%;
+  margin-bottom: auto;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+.center-block4 {
+  margin-top: 5%;
+  margin-bottom: auto;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+
 /*General footer styling*/
 .site-footer {
   background-color: #604020;
