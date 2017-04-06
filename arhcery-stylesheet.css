@@ -2,19 +2,21 @@
 /*Header*/
 .site-header {
   text-align: center;
-  background-color: black;
-  color: #50D0D0;
+  background-color: #604020;
+  color: #86b300;
 }
 
 /*Navigation*/
 .site-navigation {
-  background-color: #e0ebeb;
-  color: black;
+  background-color: #604020;
+  color: #86b300;
 }
 
 /*Page Body*/
 body {
-  background-color: #50D0D0;
+  background: url("images/archery3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .site-body {
@@ -23,13 +25,13 @@ body {
 
 /*General footer styling*/
 .site-footer {
-  background-color: black;
+  background-color: #604020;
   text-align: center;
-  color: white;
+  color: #86b300;
 }
 
 .footer-link {
-  color: #50D0D0;
+  color: white;
 }
 
 /*Styling for Font Awesome- Social Media*/
